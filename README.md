@@ -3,10 +3,10 @@
 Tutorial notebook and slides for the workshop "Learning how to code with open access neurobiology datasets "
 
 ### There are two different ways you can run the Tutorial.ipynb notebook from your browser:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ajuavinett/ViABLE_2021/)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajuavinett/ViABLE_2021.git/master?filepath=Tutorial.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ajuavinett/ViABLE_2021/)
 
 
 ### There are several ways to implement these notebooks in your class:
