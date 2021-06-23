@@ -16,6 +16,8 @@ Tutorial notebook and slides for the workshop "Learning how to code with open ac
 
 ### Teaching Resources Related to this Tutorial:
 - [Teaching with the Allen Institute for Brain Science resources](https://sites.google.com/ucsd.edu/neuroedu)
+- [Webinar on Allen Cell Types Data](https://www.youtube.com/watch?v=OQUOEkXPX8M)
+- [Neurobiology Lab Computer Labs](https://github.com/BIPN145/ComputerLabs)
 - [Neural Data Science Course Materials](https://github.com/BIPN162/Materials)
 
 ### Questions? Get in touch.
