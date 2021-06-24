@@ -1,6 +1,6 @@
 ## ViABLE Meeting 2021
 
-Tutorial notebook and slides for the workshop "Learning how to code with open access neurobiology datasets "
+Tutorial notebook and slides for the [ViABLE 2021](https://www.ableweb.org/conferences/viable2021/) workshop "Learning how to code with open access neurobiology datasets"
 
 ### There are two different ways you can run the Tutorial.ipynb notebook from your browser:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ajuavinett/ViABLE_2021/)
